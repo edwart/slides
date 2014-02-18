@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+                                      Using CPAN modules without the pain
+
+     * Want to use a CPAN module which you don't have installed
+     * Can't build the CPAN module cos you don't have the shared lib installed
+     * Need root to instal modules and local::lib is not available
+     * behind a firewall and can't get to the CPAN
+
+
+
+
+
+
+
+
+
+
+
+
+
